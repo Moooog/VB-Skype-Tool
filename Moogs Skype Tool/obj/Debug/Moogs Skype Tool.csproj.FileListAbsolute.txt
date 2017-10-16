@@ -1,0 +1,18 @@
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\Moog's Private Skype Tool.exe.config
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\Moog's Private Skype Tool.exe
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\Moog's Private Skype Tool.pdb
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\MetroFramework.Design.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\MetroFramework.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\bin\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moogs Skype Tool.csprojResolveAssemblyReference.cache
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moogs Skype Tool.csproj.ResolveComReference.cache
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moogs_Skype_Tool.Properties.Resources.resources
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moogs Skype Tool.csproj.GenerateResource.Cache
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moogs Skype Tool.csproj.CoreCompileInputs.cache
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moog's Private Skype Tool.exe
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moog's Private Skype Tool.pdb
+C:\Users\Leighton\Desktop\VB Skype Tool\Moogs Skype Tool\obj\Debug\Moogs_Skype_Tool.Form1.resources

@@ -1,0 +1,35 @@
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\MerKii Skype Tool.exe.config
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\MerKii Skype Tool.exe
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\MerKii Skype Tool.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\MetroFramework.Design.dll
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\MetroFramework.dll
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\MetroFramework.Fonts.dll
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\MerKii_Skype_Tool.Form1.resources
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\MerKii_Skype_Tool.Properties.Resources.resources
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.csproj.GenerateResource.Cache
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.exe
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.pdb
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\Interop.SKYPE4COMLib.dll
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\bin\Debug\AxInterop.SKYPE4COMLib.dll
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\Interop.SKYPE4COMLib.dll
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\AxInterop.SKYPE4COMLib.dll
+c:\users\andreas\documents\visual studio 2015\Projects\MerKii Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.csproj.ResolveComReference.cache
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\MerKii Skype Tool.exe.config
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\MerKii Skype Tool.exe
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\MerKii Skype Tool.pdb
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\MetroFramework.Design.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\MetroFramework.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\bin\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.csprojResolveAssemblyReference.cache
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\AxInterop.SKYPE4COMLib.dll
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.csproj.ResolveComReference.cache
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii_Skype_Tool.Form1.resources
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii_Skype_Tool.Properties.Resources.resources
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.csproj.GenerateResource.Cache
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.csproj.CoreCompileInputs.cache
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.exe
+C:\Users\Leighton\Desktop\VB Skype Tool\MerKii Skype Tool\obj\Debug\MerKii Skype Tool.pdb
